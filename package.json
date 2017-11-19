@@ -15,7 +15,7 @@
   "author": "Salvador Peralta",
   "license": "MIT",
   "dependencies": {
-    "node": "6.9.5",
+    "node": "^6.9.5",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
